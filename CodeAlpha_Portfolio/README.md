@@ -14,7 +14,7 @@ This is my personal portfolio built for the CodeAlpha Internship.
 - Resume download
 
 ## 🌐 Live Demo
-[Click here to view](https://lakshya-portfolio.netlify.app) *(if deployed)*
+https://lakshyanigamportfoliowebsite.netlify.app/
 
 ## 📸 Screenshots
 ![Hero Section](assets/project1.png)
