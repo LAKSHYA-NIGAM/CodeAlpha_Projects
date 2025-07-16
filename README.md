@@ -56,4 +56,4 @@ This repository contains the web development projects I completed as part of the
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/codealpha-projects.git
+   git clone https://github.com/LAKSHYA-NIGAM/codealpha-projects.git
