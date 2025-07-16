@@ -16,9 +16,6 @@ This is my personal portfolio built for the CodeAlpha Internship.
 ## 🌐 Live Demo
 https://lakshyanigamportfoliowebsite.netlify.app/
 
-## 📸 Screenshots
-![Hero Section](assets/project1.png)
-
 ## 📌 How to Run
 1. Clone the repository
 2. Open `index.html` in browser
